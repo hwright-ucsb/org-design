@@ -1,0 +1,101 @@
+﻿Role,Name,Group,Edge,Node 
+VP of Engingeering,Ted Hoelter,x,,0
+Director,Rich Bornfreund,Detectors,0,1
+Director,Jared Faraudo,Project Management,0,2
+Director,Sam Grigorian,Electrical Engineering,0,3
+Director,Chuck Handley,FW,0,4
+Director,Nicholas Hogasten,Image Processing,0,5
+Director,Eric Kurth,ROIC Design,0,6
+Director,Stephanie Marasciullo,Software Engineering,0,7
+Director,Mark Nussmeier,Systems Engineering,0,8
+Director,Peter Taylor,Applications,0,9
+Director,Marcel Tremblay,Mechanical Engineering,0,10
+Director,Ted Conrad,Cooler Design,0,11
+Director,Chris Posch,Tech Sales,0,12
+Engineer,Joe Durham,Detectors,1,13
+Engineer,Ed Huang,Detectors,1,14
+Engineer,Shunnee Joseph,Detectors,1,15
+Engineer,Hannah Leu,Detectors,1,16
+Engineer,Juan Manzo,Detectors,1,17
+Engineer,Steve Sorich,Detectors,1,18
+Consultant,Don Huynh,Detectors,1,19
+Consultant,Bill Radford,Detectors,1,20
+Project Manager,John Bouregy,Project Management,2,21
+Project Manager,Darren Haley,Project Management,2,22
+Project Manager,Kelsey Judd,Project Management,2,23
+Engineer,Mark Brown,Electrical Engineering,3,24
+Engineer,Sabre Buttner,Electrical Engineering,3,25
+Engineer,Jim Goodland,Electrical Engineering,3,26
+Engineer,Mark Mullenary,Electrical Engineering,3,27
+Engineer,Wayne Patterson,Electrical Engineering,3,28
+Engineer,Guy St. Clair,Electrical Engineering,3,29
+Engineer,Sean Tauber,Electrical Engineering,3,30
+Engineer,Alex Wolff,Electrical Engineering,3,31
+Intern,William Cai,Electrical Engineering,3,32
+Engineer,Jeff Becker,FW,4,33
+Engineer,Ted Takagi,FW,4,34
+Consultant,Bill Lippincott,FW,4,35
+Engineer,Anton Gronholm,Image Processing,5,36
+Engineer,Brenna Hensley,Image Processing,5,37
+Engineer,Stephanie Newcomb,Image Processing,5,38
+Intern,Nicholas Aitken,Image Processing,5,39
+Intern,Amalu Shimamura,Image Processing,5,40
+Engineer,Naseem Aziz,ROIC Design,6,41
+Engineer (offsite),Steve Barskey,ROIC Design,6,42
+Engineer,Christopher Chan,ROIC Design,6,43
+Engineer,Randy Hansen,ROIC Design,6,44
+Engineer,Chris Kuzen,ROIC Design,6,45
+Engineer,Simon Lam,ROIC Design,6,46
+Engineer,John Schlesselmann,ROIC Design,6,47
+Engineer,Marin Sigurdson,ROIC Design,6,48
+Engineer,Brian Simolon,ROIC Design,6,49
+Engineer (offsite),Brian Stidham,ROIC Design,6,50
+Engineer,Kevin Ye,ROIC Design,6,51
+Engineer,David Dart,Software Engineering,7,52
+Engineer,Rienco De Jong,Software Engineering,7,53
+Engineer,Ethan Frantz,Software Engineering,7,54
+Engineer,Jason Gardner,Software Engineering,7,55
+Engineer,Stan Garrow,Software Engineering,7,56
+Engineer,Jeff Imamura,Software Engineering,7,57
+Engineer,Gary Miller,Software Engineering,7,58
+Engineer,David Brian Pendleton,Software Engineering,7,59
+Engineer,Pete Wolf,Software Engineering,7,60
+Intern,Joe Andrieu,Software Engineering,7,61
+Intern,Selah Argent,Software Engineering,7,62
+Consultant,Belsin Barkhosir,Software Engineering,7,63
+Consultant,Michael Bengry,Software Engineering,7,64
+Consultant,Gregory Byrne,Software Engineering,7,65
+Consultant,Benjamin Ellsworth,Software Engineering,7,66
+Consultant,Matthew Ellsworth,Software Engineering,7,67
+Consultant,Alec Harrel,Software Engineering,7,68
+Intern,Eric Heidner,Software Engineering,7,69
+Consultant,Stephanie Lockwood-Childs,Software Engineering,7,70
+Consultant,Eric Schuh,Software Engineering,7,71
+Consultant,Hart Thomson,Software Engineering,7,72
+Engineer,Per Elmfors,Systems Engineering,8,73
+Engineer,Joseph Kostrzewa,Systems Engineering,8,74
+Engineer,Julie Moreira,Systems Engineering,8,75
+Engineer,Dylan Rodriguez,Systems Engineering,8,76
+Engineer,Troy Stark,Systems Engineering,8,77
+Engineer,Devin Walsh,Systems Engineering,8,78
+Consultant,Rich Lane,Systems Engineering,8,79
+Sub-Director,Vu Nguyen,Calibration,8,80
+Engineer,Dan Carter,Calibration,80,81
+Engineer,Sofia Hamrin,Calibration,80,82
+Engineer,Raffael Housler,Calibration,80,83
+Engineer,Evan Liu,Calibration,80,84
+Engineer,Ron Torchia,Calibration,80,85
+Consultant,George Poe,Calibration,80,86
+Engineer,Rod Christel,Applications,9,87
+Engineer,Colin Hardy,Applications,9,88
+Engineer,Michael Thornton,Applications,9,89
+Engineer,Duane Clay,Mechanical Engineering,10,90
+Engineer,Bruce Covington,Mechanical Engineering,10,91
+Engineer,Edward Garcia,Mechanical Engineering,10,92
+Engineer,Martin Grabau,Mechanical Engineering,10,93
+Engineer,Darin Hudlow,Mechanical Engineering,10,94
+Engineer,Thad Lieb,Mechanical Engineering,10,95
+Engineer,Sergio Miramontes,Mechanical Engineering,10,96
+Engineer,Kai Moncino,Mechanical Engineering,10,97
+Engineer,Hunter Moore,Mechanical Engineering,10,98
+Consultant,Kristoffer Karas,Mechanical Engineering,10,99
